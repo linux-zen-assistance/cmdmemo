@@ -6,10 +6,10 @@
   A simple, clean and efficient Bash tool to organize your Linux commands by categories.
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.1.0-blue" />
   <img src="https://img.shields.io/badge/shell-bash-green" />
   <img src="https://img.shields.io/badge/status-stable-brightgreen" />
   <img src="https://img.shields.io/badge/license-MIT-blue" />
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" />
 </p>
 
 ---
