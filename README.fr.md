@@ -6,6 +6,7 @@
   Un outil Bash simple, propre et efficace pour organiser vos commandes Linux par catégories.
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/version-1.1.0-blue" />
   <img src="https://img.shields.io/badge/shell-bash-green" />
   <img src="https://img.shields.io/badge/statut-stable-brightgreen" />
   <img src="https://img.shields.io/badge/licence-MIT-blue" />

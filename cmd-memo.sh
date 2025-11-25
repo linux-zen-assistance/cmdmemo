@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+VERSION="1.1.0"
 #
 # cmd-memo.sh – gestionnaire de mémos de commandes
 # Format TSV (tabulations réelles) :
@@ -71,7 +72,7 @@ cmd_categ() {
 usage() {
   cat <<EOF
 ***************************************************************
-Welcome to Command memo manager
+Welcome to Command memo manager (version 1.1.0)
 Created by LINUX ZEN ASSISTANCE - https://linuxzenassistance.fr
 ***************************************************************
 
